@@ -66,4 +66,4 @@ crud_planetas/
 ✔ Comentários explicativos no código  
 
 ---  
-🚀 **Este projeto foi feito pela piazada de Reserva-PR!**  
+🚀 **Este projeto foi programado por fe-r4!**  
